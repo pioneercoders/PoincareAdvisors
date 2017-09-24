@@ -1,0 +1,49 @@
+#loan-types{
+	min-width: 70%;
+    width: 55%;
+    min-height: 234px;
+     margin-left:63px;
+    margin-top: 259px;
+   }
+  #home{
+  	height: 161px;
+    background:rgba(220, 220, 220, 0.57);
+  }
+   #home h4{
+   	margin: 0px;
+   	padding-top: 10px;
+    padding-left: 16px;
+   }
+   #home p{
+   	margin: 0px;
+    padding-top: 13px;
+    padding-left: 16px;
+   }
+   #menu1{
+  	height: 161px;
+    background: rgba(220, 220, 220, 0.57);
+  }
+   #menu1 h4{
+   	margin: 0px;
+   	padding-top: 10px;
+    padding-left: 16px;
+   }
+   #menu1 p{
+   	margin: 0px;
+    padding-top: 13px;
+    padding-left: 16px;
+   }
+   #menu2{
+  	height: 161px;
+    background:rgba(220, 220, 220, 0.57);
+  }
+   #menu2 h4{
+   	margin: 0px;
+   	padding-top: 10px;
+    padding-left: 16px;
+   }
+   #menu2 p{
+   	margin: 0px;
+    padding-top: 13px;
+    padding-left: 16px;
+   }

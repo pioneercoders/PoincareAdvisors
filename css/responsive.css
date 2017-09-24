@@ -1,0 +1,66 @@
+@media only screen and (max-width: 1366px) {
+ .filingtax img{
+	width:270px;
+	height:185px;
+}
+.legal img{
+	width:270px;
+	height:185px;
+}
+.government img{height:185px; width:270px;}
+
+}
+
+@media only screen and (max-width: 1266px) {
+ .filingtax img{
+	width:200px;
+	height:185px;
+}
+.legal img{
+	width:200px;
+	height:185px;
+}
+.government img{height:185px; width:200px;}
+
+}
+
+@media only screen and (max-width: 1024px) {
+	.filingtax img{
+width:100%;
+}
+.legal img{
+	width:100%;
+}
+.government img{width:100%;}
+
+.nav > li > a {
+    position: relative;
+    display: block;
+    padding: 10px 37px !important;
+}
+	.searchtext #wrap{display:block;}
+.searchwrap #wrap{display:none;}
+
+input[type="text"]:focus {
+  width: 350px;
+  z-index: 1;
+  border: 1px solid #BBB;
+  cursor: text;
+}
+	
+	
+}
+
+@media only screen and (max-width: 1023px) {
+	.filingtax img{
+width:100%;
+}
+.legal img{
+	width:100%;
+}
+.government img{width:100%;}
+
+
+	
+}
+
