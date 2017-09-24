@@ -1,0 +1,26 @@
+@media only screen and (max-width: 768px) {
+				.xs-clear-both{
+					clear:both;
+				}
+				.xs-pad-0{
+					padding:0px !important;
+				}
+				.xs-mar-0{
+					padding:0px !important;
+				}
+			}
+				.point{
+					background-color: white;
+				    width: 10px;
+				    height: 10px;
+				    border-radius: 10px;
+				    float:left;
+				    margin-right:10px;
+				}
+				#dot1{
+					background-color:#dc4c4c;
+				}
+				#brk-space{
+   					width: 34%;
+				}
+				

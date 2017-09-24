@@ -1,31 +1,25 @@
 #pion-nav{
 	margin-bottom: 0px;
 }
-#home-first-txt{
-	min-width: 100%;
+.home-first-txt{
     min-height: 300px;
-    background: black;
     text-align: center;
-    color: white;
     padding-top: 114px;
 }
 #home-abt-txt{
-	min-width: 100%;
     min-height: 500px;
-    background: white;
     text-align: center;
     color: black;
 }
 #footer-licence-container{
 	background: #dc4c4c;
-    min-width: 100%;
     min-height: 100px;
     text-align: right;
     padding-top: 44px;
     padding-right: 72px;
-        color: white;
+    color: white;
     font-weight: bold;
 }
 #footer-container{
-	    margin-top: 0px;!important
+	    margin-top: 0px !important;
 }
